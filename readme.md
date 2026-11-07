@@ -1,6 +1,17 @@
-# Dynamic Pricing & Demand Forecasting Engine
+# 📊 Competitor Pricing ETL & Dynamic Demand Forecasting Engine
 
-An end-to-end Machine Learning pipeline that ingests historical e-commerce data, trains a neural network for demand forecasting, and optimizes product pricing using Particle Swarm Optimization (PSO). This project demonstrates the ability to combine predictive modeling with mathematical optimization to maximize profitability.
+> Machine learning based dynamic pricing system for demand forecasting, market analytics, and revenue optimization using Particle Swarm Optimization (PSO).
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat&logo=python)](https://python.org)
+[![FastAPI](https://img.shields.io/badge/Framework-FastAPI-009688?style=flat&logo=fastapi)](https://fastapi.tiangolo.com)
+[![TensorFlow](https://img.shields.io/badge/ML-TensorFlow%20%2F%20Keras-FF6F00?style=flat&logo=tensorflow)](https://tensorflow.org)
+[![Scikit-Learn](https://img.shields.io/badge/Modeling-Scikit--Learn-F7931E?style=flat&logo=scikitlearn)](https://scikit-learn.org)
+[![Pandas](https://img.shields.io/badge/Data-Pandas%20%2F%20NumPy-150458?style=flat&logo=pandas)](https://pandas.pydata.org)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+An end-to-end Machine Learning and ETL pipeline that ingests historical e-commerce data, trains a neural network for demand forecasting, and optimizes product pricing using Particle Swarm Optimization (PSO). This project demonstrates the ability to combine predictive modeling with mathematical optimization to maximize profitability.
 
 ---
 
@@ -24,8 +35,8 @@ The system is broken down into three main computational stages:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Kiruthick7/Dynamic-Pricing-System-for-E-commerce.git
-cd Dynamic-Pricing-System-for-E-commerce
+git clone https://github.com/Kiruthick7/Competitor-Pricing-ETL-Analytics.git
+cd Competitor-Pricing-ETL-Analytics
 ```
 
 2. Install dependencies (TensorFlow/Keras, Pandas, NumPy, Scikit-learn):
